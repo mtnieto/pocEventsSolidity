@@ -1,0 +1,22 @@
+{
+  "name": "eventpoc",
+  "version": "1.0.0",
+  "description": "Proof of concept of Events in solidity smartcontracts using the nodejs sdk",
+  "main": "subscriber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtnieto/pocEventsSolidity.git"
+  },
+  "author": "Maritere Nieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtnieto/pocEventsSolidity/issues"
+  },
+  "homepage": "https://github.com/mtnieto/pocEventsSolidity#readme",
+  "dependencies": {
+    "web3_extended": "^1.0.0"
+  }
+}
